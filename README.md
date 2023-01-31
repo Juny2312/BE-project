@@ -2,7 +2,9 @@
 
 Project Plan 
 
-(1) Multilingual e-commerce version       << (current)
+(1) E-commerce                   ◀  (current)
+
+- Multilingual version
 
 - based on MSA Architecture .
 
