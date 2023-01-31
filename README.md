@@ -17,3 +17,4 @@ Project Plan
 (3) Trading System
 
 
+(4) Journal 
