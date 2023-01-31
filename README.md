@@ -17,20 +17,3 @@ Project Plan
 (3) Trading System
 
 
-(4) Journal Site 
-
-
-(5) Education System 
-
-
-(6) bot 
-
-
-(7) ? 
-
-
-(8) ?
-
-
-(9) ?
-
