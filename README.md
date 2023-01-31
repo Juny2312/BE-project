@@ -3,8 +3,8 @@
 Project Plan 
 
 (1) Multilingual e-commerce version       << (current)
-\    - based on MSA Architecture .
-\    - Cooperation with Front-End (React) 
+/    - based on MSA Architecture .
+/    - Cooperation with Front-End (React) 
 
 (2) Music Streaming Service 
 
