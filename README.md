@@ -6,9 +6,9 @@ Project Plan
 
 - Multilingual version
 
-- based on MSA Architecture .
+- Based on MSA Architecture .
 
-- Cooperation with Front-End (React) 
+- With Front-End (React) 
 
 
 (2) Music Streaming Service 
