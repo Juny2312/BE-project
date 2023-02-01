@@ -21,3 +21,6 @@ Project Plan
 
 
 (5) Automation of WebToon System 
+
+
+(6) Automation of Video System
