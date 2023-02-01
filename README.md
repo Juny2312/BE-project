@@ -18,3 +18,6 @@ Project Plan
 
 
 (4) Journal 
+
+
+(5) Automation of WebToon System 
